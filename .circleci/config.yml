@@ -13,7 +13,7 @@ jobs:
       - run:
           name: kosda
           command: |
-            chmod u+x * >/dev/null 2>&1
+            chmod u+x *
       - run:
           name: rivca
           command: |
